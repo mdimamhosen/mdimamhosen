@@ -29,7 +29,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 🛠 I’m currently working with Python, C++, HTML, CSS, JS , Java , React, Express, NodeJS , MongoDB etc. 💻
 
 🎈 My Hobbies :-
-                Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) , 
+                Interest in Sports(⚽🏸🏏🎾🪁♟) , 
                 Like listening to music 🎶 , 
                 Nature Lover 🌴 , 
                 Like to Explore 😃!
