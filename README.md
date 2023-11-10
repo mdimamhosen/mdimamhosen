@@ -23,3 +23,18 @@
 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.
 
 ---
+<img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
+
+### Some more Information about me :
+🛠 I’m currently working with Python, C++, HTML, CSS, JS , Java , React, Express, NodeJS , MongoDB etc. 💻
+
+🎈 My Hobbies :-
+                Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) , 
+                Like listening to music 🎶 , 
+                Nature Lover 🌴 , 
+                Like to Explore 😃!
+                
+📫 Reach me at : mdimam.cse9.bu@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
+
+---
+ 
