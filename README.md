@@ -64,14 +64,15 @@
 
 <h2 align="center">My GitHub Stats</h2>
 <p align="center">
+  <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=mdimamhosen&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="mdimamhosen" />
+</p>
+<p align="center">
   <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=mdimamhosen&show_icons=true&theme=dark" alt="mdimamhosen" />
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdimamhosen&theme=dark" alt="mdimamhosen" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=mdimamhosen&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="mdimamhosen" />
-</p>
+
 
 ---
  
