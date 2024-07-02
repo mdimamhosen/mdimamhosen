@@ -1,16 +1,5 @@
-<div align="center">
-  <img src="https://i.imgur.com/bmJQXfF.png" alt="Banner" style="width:100%;"/>
-</div>
-
-<h1 align="center">Hi 👋, I'm Md Imam Hosen</h1>
-<h3 align="center">A passionate full-stack developer and competitive programmer from Bangladesh</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=14F7FF&width=435&lines=Web+Developer;React+Enthusiast;Competitive+Programmer;Problem+Solver" alt="Typing SVG" />
-</p>
-
----
-
+<img src="header_en.svg"></img>
+ 
 ### About Me
 
 - 🎓 I am currently pursuing a Bachelor's in Computer Science & Engineering from the University of Barishal.
