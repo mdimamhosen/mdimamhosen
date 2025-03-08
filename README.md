@@ -11,14 +11,6 @@
 
 ---
 
-<p align="center" style="margin-bottom: 20px;">
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mdimamhosen" alt="mdimamhosen" />
-  </a>
- 
-</p>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://twitter.com/imamhosen02" target="blank">
