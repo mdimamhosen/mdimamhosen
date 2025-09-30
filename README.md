@@ -1,70 +1,101 @@
-<img src="header_en.svg"></img>
- 
-### About Me
+<img src="header_en.svg" alt="Banner"/>  
 
-- 🎓 I am currently pursuing a Bachelor's in Computer Science & Engineering from the University of Barishal.
-- 🌱 I am passionate about learning new technologies, implementing new ideas, and solving real-life problems.
-- 🤖 Currently, I am strengthening my Data Structures and Algorithm skills.
-- 💬 Ask me about **React, Redux, MongoDB, JavaScript, and CSS**.
-- 🏆 I am a dedicated and hardworking individual, and I thoroughly enjoy tackling technological challenges and coming up with novel ideas.
-- ⚡ In my free time, I participate in competitive programming and problem-solving challenges to hone my skills.
+# 👋 Hi, I'm Md Imam Hosen  
+
+🎓 **CSE Undergraduate** | ⚡ **Passionate Software Engineer** | 💻 **Problem Solver**  
+
+I’m a dedicated **Software Engineer in the making** currently pursuing **B.Sc. in Computer Science & Engineering** from the **University of Barishal**.  
+I love building **scalable software systems**, exploring **new technologies**, and solving **real-world challenges** through code.  
 
 ---
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-  <a href="https://twitter.com/imamhosen02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imamhosen02" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/mdimam02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdimam02" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/mdimamhosen02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdimamhosen02" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@mdimam.cse9.bu" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdimam.cse9.bu" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/imam02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="imam02" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/imam02" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imam02" height="30" width="40" />
-  </a>
-</p>
+<h1 align="center"> 🚀 About Me   </h1>
 
-<h2 align="center">My Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reactjs" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="Mongodb" />
-  <img src="https://img.shields.io/badge/Firebase-5f6368?style=for-the-badge&logo=firebase&logoColor=FFCC30" alt="Firebase" />
-  <img src="https://img.shields.io/badge/JSON Web Token-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Token" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary-css&logoColor=white" alt="Cloudinary" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Npm" />
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Git-F44D27?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
-</p>
-
-<h2 align="center">My GitHub Stats</h2>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=mdimamhosen&layout=compact&langs_count=10&border_radius=4.5&theme=dark" alt="mdimamhosen" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-khaki-xi.vercel.app/api?username=mdimamhosen&show_icons=true&theme=dark" alt="mdimamhosen" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mdimamhosen&theme=dark" alt="mdimamhosen" />
-</p>
-
+- 🎓 CSE Student | University of Barishal  
+- 💻 Skilled in **MERN Stack, Next.js, and TypeScript**  
+- 🌱 Currently improving **Data Structures, Algorithms & System Design**  
+- 🏆 Competitive Programmer (Codeforces 350+ | LeetCode 100+)  
+- 🤝 Open to **Internships, Remote Work & Collaboration**  
+- 📩 Reach me at **mimam.cse22@bu.ac.bd**  
+- 🌐 Portfolio: [imam-hosen.netlify.app](https://imam-hosen.netlify.app)  
+- ⚡ Fun fact: I love solving problems more than creating them 😄  
 
 ---
- 
+
+<h1 align="center"> 🌐 Connect with Me  </h1>
+<p align="center">
+  <a href="https://twitter.com/imamhosen02" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/mdimam02" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/></a>
+  <a href="https://fb.com/mdimamhosen02" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook"/></a>
+  <a href="https://medium.com/@mdimam.cse9.bu" target="_blank"><img src="https://skillicons.dev/icons?i=medium" height="40" alt="Medium"/></a>
+  <a href="https://codeforces.com/profile/imam02" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/imam02" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
+---
+
+<h1 align="center">🛠️ Tech Stack & Tools</h1>  
+
+<h2 align="center"> 🌐 Frontend  </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,ts,js,html,css,tailwind,bootstrap,materialui,vite" />
+</p>
+
+<h2 align="center"> ⚙️ Backend  </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,go,firebase,postman,prisma" />
+</p>
+
+<h2 align="center"> ☁️ Cloud, DevOps & Auth  </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,bash" />
+  <img src="https://img.shields.io/badge/Firebase-0396de?style=for-the-badge&logo=firebase&logoColor=FFCB2D"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+<h2 align="center"> ⚡ Programming Languages </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,go" />
+</p>
+
+<h2 align="center"> 🛠️ Development & Collaboration Tools </h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,webpack,babel,figma,jira,discord,linux" />
+</p>
+
+---
+
+<h1 align="center">📊 GitHub Stats</h1>  
+
+<p align="center">
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api?username=mdimamhosen&show_icons=true&theme=dark&border_radius=8" height="165" />
+  <img src="https://github-readme-stats-khaki-xi.vercel.app/api/top-langs/?username=mdimamhosen&layout=compact&langs_count=12&theme=dark&border_radius=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdimamhosen&theme=dark&border_radius=8" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mdimamhosen&limit=5&theme=dark&combine_all_yearly_contributions=true" height="165"/>
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🥇 Solved **350+ problems on Codeforces**, **100+ on LeetCode**  
+- 🔥 Hackathon project: **KrishiBondhu** – Connecting farmers directly with consumers in Bangladesh   
+
+---
+
+## 🌟 Career Goals  
+
+I aspire to become a **Full-Stack Software Engineer** specializing in **scalable, user-centric applications**.  
+Currently seeking **Software Engineering Internships & Remote Opportunities** where I can **contribute, learn, and grow**.  
+
+---
+
+⭐️ *"Keep Building. Keep Solving. Keep Learning."*  
