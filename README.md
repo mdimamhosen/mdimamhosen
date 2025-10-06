@@ -16,8 +16,6 @@ I love building **scalable software systems**, exploring **new technologies**, a
 - 🌱 Currently improving **Data Structures, Algorithms & System Design**  
 - 🏆 Competitive Programmer (Codeforces 350+ | LeetCode 100+)  
 - 🤝 Open to **Internships, Remote Work & Collaboration**  
-- 📩 Reach me at **mimam.cse22@bu.ac.bd**  
-- 🌐 Portfolio: [imam-hosen.netlify.app](https://imam-hosen.netlify.app)  
 - ⚡ Fun fact: I love solving problems more than creating them 😄  
 
 ---
